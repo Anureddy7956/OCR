@@ -1,3 +1,4 @@
+# This repository contains a CNN-based OCR project developed during the IISc Bangalore workshop on Agentic and Generative AI, with assistance from Antigravity.
 # MNIST OCR Project
 
 A CNN-based handwritten digit recognition system, equipped with text extraction (OCR) capabilities for images and multi-page PDFs, and a Tkinter GUI.
