@@ -13,8 +13,8 @@ A CNN-based handwritten digit recognition system, equipped with text extraction 
 ## Setup Environment
 1. Create and activate a conda environment named `IISC_1104_env`:
    ```bash
-   conda create -n IISC_1104_env python=3.10 -y
-   conda activate IISC_1104_env
+   conda create -n env_name python=3.10 -y
+   conda activate env_name
    ```
 2. Install the necessary pip packages:
    ```bash
